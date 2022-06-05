@@ -2,8 +2,9 @@
   "name": "takemeto",
 	"displayName": "Take Me To",
 	"description": "Takes you to google search engine with the search keyword",
-	"icon": "https://raw.githubusercontent.com/Niyko/TakeMeTo/main/images/icon.png",
+	"icon": "images/icon.png",
 	"repository": "https://github.com/Niyko/TakeMeTo",
+	"publisher": "niyko",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.67.0"
